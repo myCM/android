@@ -529,4 +529,6 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
+
+  <project path=".repo/local_manifests" name=".repo_local_manifests" remote="mycm" />
 </manifest>
